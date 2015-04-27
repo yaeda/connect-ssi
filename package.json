@@ -28,7 +28,7 @@
   "homepage": "https://github.com/soenkekluth/connect-ssi",
   "dependencies": {
     "defaults": "^1.0.0",
-    "node-ssi": "^0.3.0",
+    "node-ssi": "yaeda/node-ssi#65393fa0264f135562840b70251016c60d5df879",
     "parseurl": "^1.3.0"
   },
   "devDependencies": {
